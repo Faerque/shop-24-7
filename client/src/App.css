@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-width: 100vh,
+}
+.content-warp{
+  flex: 1;
+}
